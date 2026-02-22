@@ -1,4 +1,4 @@
-name = "high-performance-doh-proxy-worker"
+name = "doh"
 main = "workers.js"
 compatibility_date = "2023-05-22"
 
